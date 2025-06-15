@@ -15,7 +15,7 @@ Lütfen aşağıdaki adımları sırayla takip ediniz.
 
 1.  Bu kılavuzun bulunduğu dizindeki `restoran` klasörünün tamamını kopyalayın.
 2.  Bilgisayarınızdaki XAMPP kurulum dizinine giderek `htdocs` klasörünü açın. (Genellikle `C:\xampp\htdocs\`)
-3.  Kopyaladığınız `restoran` klasörünü bu `htdocs` klasörünün içine yapıştırın.
+3.  Kopyaladığınız `restoran` klasörünü bu `htdocs` klasörünün içine yapıştırın. Yoksa 'restoran' adlı bir klasör oluşturun.
     *   Sonuçta dosya yolunuz `C:\xampp\htdocs\restoran\` şeklinde olmalıdır.
 
 
